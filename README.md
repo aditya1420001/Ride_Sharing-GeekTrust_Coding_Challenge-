@@ -35,6 +35,21 @@ You can read build instructions [here](https://github.com/geektrust/coding-probl
 
 # Problem Statement
 
+<img width="785" alt="Screenshot 2024-04-15 at 2 26 41 AM" src="https://github.com/aditya1420001/Ride_Sharing-GeekTrust_Coding_Challenge-/assets/97335393/9e5e1bf5-e9ff-4a08-aef5-e75bcb8f2ca1">
+<img width="774" alt="Screenshot 2024-04-15 at 2 26 47 AM" src="https://github.com/aditya1420001/Ride_Sharing-GeekTrust_Coding_Challenge-/assets/97335393/f6403c7e-8066-4a30-a13b-5415ebfe6b0b">
+<img width="776" alt="Screenshot 2024-04-15 at 2 26 53 AM" src="https://github.com/aditya1420001/Ride_Sharing-GeekTrust_Coding_Challenge-/assets/97335393/b89f980d-c0d5-47bb-96bc-42be5aa51cc5">
+
+# Sample input and output 1
+<img width="776" alt="Screenshot 2024-04-15 at 2 26 53 AM" src="https://github.com/aditya1420001/Ride_Sharing-GeekTrust_Coding_Challenge-/assets/97335393/3ef13562-f67c-4c12-843e-e044dc9429ce">
+
+# Sample input and output 2
+![Uploading Screenshot 2024-04-15 at 2.27.29 AM.png…]()
+
+
+
+
+
+
 Input Commands & Format
 ADD_DRIVER <DRIVER_ID> <X_COORDINATE> <Y_COORDINATE>
  
