@@ -43,7 +43,8 @@ You can read build instructions [here](https://github.com/geektrust/coding-probl
 <img width="776" alt="Screenshot 2024-04-15 at 2 26 53 AM" src="https://github.com/aditya1420001/Ride_Sharing-GeekTrust_Coding_Challenge-/assets/97335393/3ef13562-f67c-4c12-843e-e044dc9429ce">
 
 # Sample input and output 2
-![Uploading Screenshot 2024-04-15 at 2.27.29 AM.png…]()
+
+<img width="772" alt="Screenshot 2024-04-15 at 2 27 29 AM" src="https://github.com/aditya1420001/Ride_Sharing-GeekTrust_Coding_Challenge-/assets/97335393/681da9ee-8efa-467b-9dfc-536aeb54c994">
 
 
 
